@@ -1,5 +1,6 @@
 # paper_code_tracker
-This is a project about my Final project in CPSC8700 course at Clemson University.
+This is a project about my Final project in CPSC8700 course at Clemson University.  
+
 [Course(Introduction to Software Development)](https://people.cs.clemson.edu/~malloy/courses/8700-2018/index.html)
 
 # Why I build this application.
