@@ -22,9 +22,9 @@ I like to use VS Code application to write python code when I am working. I writ
 - (Plan) Before 08/10/2018 Paper&CodeTask Tracker V2.0(Master) I hope I can finish it.
 
 ## Introduce about the branch
-- **Master** Completed and you can just use it on your computer.
-- **Dev** I use this branch to add some function which I want make this application more powerful.
-- **Design** I use this branch to try different pattern in this Application.
+- **Master**: Completed and you can just use it on your computer.
+- **Dev**: I use this branch to add some function which I want make this application more powerful.
+- **Design**: I use this branch to try different pattern in this Application.
 
 I hope you like this application. Please feel free to send Email to me if you have some issues with this application.
 > Email: guoze.work@gmail.com
