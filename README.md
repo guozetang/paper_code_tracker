@@ -3,6 +3,13 @@ This is a project about my Final project in CPSC8700 course at Clemson Universit
 
 [Course(Introduction to Software Development)](https://people.cs.clemson.edu/~malloy/courses/8700-2018/index.html)
 
+# How to use this Application.
+```bash
+git clone git@github.com:guozetang/paper_code_tracker.git
+cd paper_code_tracker
+python3.5 main.py
+```
+
 # Why I build this application.
 ## Paper Tracker
 When I begin to do a research, I like to download some papers about this research from the Internet. After that, I may read the abstract about each paper. If I find some good idea in the paper, I save this paper in the paper folder on my computer because I think I will read it in the future. Unfortunately, I may forget that why I save this paper or the name of this paper after a week. I would like to find an application to help me to manage the papers which I need to read. But most of the paper manager application just can help me to have a good reader experience. And these applications can’t tell me which paper is important and urgent.
