@@ -19,7 +19,7 @@ I like to use VS Code application to write python code when I am working. I writ
 
 ## Process For this Application
 - 08/01/2018 Paper Tracker V1.0(Master)
-- (Plan) efore 08/10/2018 Paper&CodeTask Tracker V2.0(Master) I hope I can finish it.
+- (Plan) Before 08/10/2018 Paper&CodeTask Tracker V2.0(Master) I hope I can finish it.
 
 ## Introduce about the branch
 - **Master** Completed and you can just use it on your computer.
